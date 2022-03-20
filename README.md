@@ -28,7 +28,7 @@ Before importing the international breweries file (csv) into pgadmin, I created 
     )
     After running the query code, i navigated to left side of pgadmin to see if the tables exist in the database(international_breweries).
     
-    <img width="265" alt="Screenshot 2022-03-20 at 21 06 12" src="https://user-images.githubusercontent.com/62305424/159184571-ee474ed0-f97b-4828-bc96-7ecb0e557781.png">
+  
 
 
 To import the csv file into the query tool. I navigate to international breweries and right click to import/export. <img width="705" alt="Screenshot 2022-03-20 at 21 13 52" src="https://user-images.githubusercontent.com/62305424/159184323-2f07310a-2617-4ceb-83b0-69732ce88759.png">
