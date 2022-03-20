@@ -11,7 +11,8 @@ A) Profit Analysis
 B) Brand Analysis
 C) Countries Analysis
 
-Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following codes which was generated from the properties of each table colon in the file. Below is the query script written:
+
+Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following query script which was generated from the properties of each table colon in the file. Below is the query script written:
 
 -- CREATE TABLE public. International_breweries(
  
@@ -45,7 +46,7 @@ years integer
 
 
 
-To import the csv file into the query tool. I navigate to international breweries and right click to import/export. During this process of importing the data, i took in mind the following 
+To import the csv file into the query tool. I navigate to international breweries and right click to import/export. During this process of importing the data, i took in mind the following:
 
 - Comma seperated values since the file was in a csv format.
 - Determine the delimiter as it is in a csv format
