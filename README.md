@@ -13,20 +13,33 @@ C) Countries Analysis
 
 Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following codes which was generated from the properties of each table colon in the file. Below is the query script written:
 
--- CREATE TABLE public. International_breweries(
-    sales_id integer 
-    sales_rep character varying COLLATE pg_catalog."default",
-    emails caharacter varying COLLATE pg_catalog."default",
-    plant_cost integer,
-    unit_price integer,
-    quantity integer,
-    cost integer,
-    profit integer,
-    countries character varying COLLATE pg_catalog."default",
-    region character varying COLLATE pg_catalog."default",
-    years integer
-    )
-    After running the query code, i navigated to left side of pgadmin to see if the tables exist in the database(international_breweries).
+CREATE TABLE public. International_breweries(
+ 
+ sales_id integer,
+   
+ sales_rep character varying COLLATE pg_catalog."default",
+ 
+ emails caharacter varying COLLATE pg_catalog."default",
+  
+ plant_cost integer,
+ 
+ unit_price integer,
+ 
+ quantity integer,
+ 
+ cost integer,
+ 
+ profit integer,
+ 
+ countries character varying COLLATE pg_catalog."default",
+ 
+ region character varying COLLATE pg_catalog."default",
+
+years integer
+
+)
+   
+   After running the query code, i navigated to left side of pgadmin to see if the tables exist in the database(international_breweries).
     
   
 
