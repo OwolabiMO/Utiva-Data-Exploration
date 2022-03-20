@@ -45,7 +45,11 @@ years integer
 
 
 
-To import the csv file into the query tool. I navigate to international breweries and right click to import/export.
+To import the csv file into the query tool. I navigate to international breweries and right click to import/export. During this process of importing the data, i took in mind the following 
+
+- Comma seperated values since the file was in a csv format.
+- Determine the delimiter as it is in a csv format
+- Does the file has header.
 
 <img width="705" alt="Screenshot 2022-03-20 at 21 13 52" src="https://user-images.githubusercontent.com/62305424/159184323-2f07310a-2617-4ceb-83b0-69732ce88759.png">
 
