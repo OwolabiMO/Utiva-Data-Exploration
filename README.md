@@ -13,7 +13,7 @@ C) Countries Analysis
 
 Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following codes which was generated from the properties of each table colon in the file. Below is the query script written:
 
-CREATE TABLE public. International_breweries(
+-- CREATE TABLE public. International_breweries(
  
  sales_id integer,
    
@@ -41,9 +41,12 @@ years integer
    
    After running the query code, i navigated to left side of pgadmin to see if the tables exist in the database(international_breweries).
     
-  
+  <img width="265" alt="Screenshot 2022-03-20 at 21 06 12" src="https://user-images.githubusercontent.com/62305424/159184837-3b1e485c-de9f-4bd2-ae3d-c16973dbfcc7.png">
 
 
-To import the csv file into the query tool. I navigate to international breweries and right click to import/export. <img width="705" alt="Screenshot 2022-03-20 at 21 13 52" src="https://user-images.githubusercontent.com/62305424/159184323-2f07310a-2617-4ceb-83b0-69732ce88759.png">
+
+To import the csv file into the query tool. I navigate to international breweries and right click to import/export.
+
+<img width="705" alt="Screenshot 2022-03-20 at 21 13 52" src="https://user-images.githubusercontent.com/62305424/159184323-2f07310a-2617-4ceb-83b0-69732ce88759.png">
 
     
