@@ -1,15 +1,16 @@
 # Utiva-Data-Exploration
 
-During the bootcamp at Utiva, we were asked to explore the data from Nigerian breweries that contains different data from other african countries. According to the mail which we received from the team lead, we are required to analytical reports so as to present to the shareholders in the annual meeting and make business decision for business development. Below is the mail received from team lead:
+During the bootcamp at Utiva, we were asked to explore the data from Nigerian breweries that contains different data from other african countries. According to the mail which we received from the team lead, we are required to analytical reports so as to present to the shareholders in the annual meeting and make business decision for business development. Here is the link to the casestudy 
 
-Mail from the Team lead--
+https://import.cdn.thinkific.com/507876/courses/1431816/DSF_InternationalBreweriesSQLCapstoneProject-210714-091303.pdf
 
-From the international breweries data recorded for a duration of three years, you are directed to do the following analyses to aid better decision making in order to maximize profit and reduce loss to the lowest minimum. 
+# Problem Statement
 
-We are to analyse the data in three different direction 
-A) Profit Analysis
-B) Brand Analysis
-C) Countries Analysis
+International Breweries want us to use the data to answer a few simple questions about the customers and regions  especially about their
+
+A) Sales pattern
+B) Profits from regions
+C) Which brand is the most favourite.
 
 
 Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following query script which was generated from the properties of each table colon in the file. Below is the query script written:
