@@ -9,7 +9,9 @@ https://import.cdn.thinkific.com/507876/courses/1431816/DSF_InternationalBreweri
 International Breweries want us to use the data to answer a few simple questions about the customers and regions  especially about their
 
 A) Sales pattern
+
 B) Profits from regions
+
 C) Which brand is the most favourite.
 
 In addition the management of International Breweries plans to use the analysis of this maximise profit and reduce loss within it regions.
