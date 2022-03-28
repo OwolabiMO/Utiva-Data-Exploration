@@ -4,7 +4,7 @@ During the bootcamp at Utiva, we were asked to explore the data from Nigerian br
 
 https://import.cdn.thinkific.com/507876/courses/1431816/DSF_InternationalBreweriesSQLCapstoneProject-210714-091303.pdf
 
-# Problem Statement
+### Problem Statement
 
 International Breweries want us to use the data to answer a few simple questions about the customers and regions  especially about their
 
@@ -12,7 +12,9 @@ A) Sales pattern
 B) Profits from regions
 C) Which brand is the most favourite.
 
+In addition the management of International Breweries plans to use the analysis of this maximise profit and reduce loss within it regions.
 
+### Creating Database on Pgadmin
 Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following query script which was generated from the properties of each table colon in the file. Below is the query script written:
 
 -- CREATE TABLE public. International_breweries(
@@ -47,11 +49,11 @@ years integer
 
 
 
-To import the csv file into the query tool. I navigate to international breweries and right click to import/export. During this process of importing the data, i took in mind the following:
+Lastly in this section, it is important to import the csv file into already created database (international_breweries). I navigate to database and right click to import/export. During this process of importing the data, i clicked the following fields:
 
-- Comma seperated values since the file was in a csv format.
-- Determine the delimiter as it is in a csv format
-- Does the file has header.
+- Format field: select csv here (Comma seperated values) since the file was in a csv format.
+- Delimiter field: Determine the delimiter as it is in a csv format
+- Header: Select header which turns green (Yes) because the csv file has header.
 
 <img width="705" alt="Screenshot 2022-03-20 at 21 13 52" src="https://user-images.githubusercontent.com/62305424/159184323-2f07310a-2617-4ceb-83b0-69732ce88759.png">
 
