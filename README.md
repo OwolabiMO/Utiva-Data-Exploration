@@ -98,6 +98,7 @@ In here i use the case function to seperate the regions into Anglophone and fran
 
 
 
+
 3.  **Country that generated the highest profit in 2019**
 
 I calculated the sum of the profit and group them by the countries in which they were generated. 
@@ -109,6 +110,8 @@ I calculated the sum of the profit and group them by the countries in which they
 
 <img width="230" alt="Screenshot 2022-03-31 at 20 34 18" src="https://user-images.githubusercontent.com/62305424/161125879-0f15c229-b279-4aa8-b3b4-5e49c9462f68.png">
 
+
+
 4. **Help him find the year with the highest profit**
 
 I did sum up the profits and then group them by years so the output of each year can be total profit generated in the years.
@@ -117,7 +120,9 @@ I did sum up the profits and then group them by years so the output of each year
 
 <img width="283" alt="Screenshot 2022-03-31 at 20 36 31" src="https://user-images.githubusercontent.com/62305424/161126166-fd8581d1-a5ec-4ead-8b91-3e4cfbfab62a.png">
 
+
 The year with the highest profit is 2017 which had a total of 38,503,320
+
 
 5.  **Which month in the three years was the least profit generated?**
 
@@ -128,7 +133,10 @@ Again i had to sum up the profits and group them by the months in which they are
 
 <img width="260" alt="Screenshot 2022-03-31 at 20 40 46" src="https://user-images.githubusercontent.com/62305424/161126849-50670fa9-8927-4d81-ba25-2ae0a3f4eaf7.png">
 
+
 The month that generated the least profit is April with the sum of 8,573,830
+
+
 
 6. **What was the minimum profit in the month of December 2018?**
 
@@ -136,9 +144,12 @@ This question here centers around the year 2018 and the month december in which 
 
 <img width="431" alt="Screenshot 2022-03-31 at 11 56 29" src="https://user-images.githubusercontent.com/62305424/161029850-d47ce3af-876a-4b68-809d-b4eaf5cb06c8.png">
 
+
 The least profit generated in the month of december 2018 was 38,150 and 38,200
 
+
 <img width="221" alt="Screenshot 2022-03-31 at 20 43 47" src="https://user-images.githubusercontent.com/62305424/161127297-95573ea0-4adf-4a03-9c65-421e68d1dab3.png">
+
 
 7. **Compare the profit in percentage for each of the month in 2019**
 
@@ -148,26 +159,35 @@ This analysis takes into consideration two conditions which are monthly profit a
  The monthly profit which will be named profit_per_month will be multiplied by 100.00 and divided by the yearly profit. 
  The script for the yearly profit is as follows:
  
- SELECT SUM(profit)
+
+
+SELECT SUM(profit)
  
 FROM international_breweries
 
 WHERE years = 2019. 
 
+
+
 The query written to compare the profit for the months is seen below
 
 <img width="562" alt="Screenshot 2022-03-31 at 13 20 32" src="https://user-images.githubusercontent.com/62305424/161043871-f27c77a5-37f7-41c2-8a31-532590049581.png">
 
+
 <img width="380" alt="Screenshot 2022-03-31 at 13 24 42" src="https://user-images.githubusercontent.com/62305424/161044574-73631172-2648-4b84-b520-013fa3b0158a.png">
+
 
 
 8. **Which particular brand generated the highest profit in Senegal?**
 
 To get the highest profit, we have to sum the profit and group them by brand as written below;
 
+
 <img width="306" alt="Screenshot 2022-03-31 at 17 10 02" src="https://user-images.githubusercontent.com/62305424/161088934-794d7cf6-2499-48e2-b2c4-88664068b6be.png">
 
+
 <img width="228" alt="Screenshot 2022-03-31 at 20 47 27" src="https://user-images.githubusercontent.com/62305424/161127828-f9d4aac3-0f3b-484f-8fbe-c907bab20d77.png">
+
 
 The brand with the highest profit is Castlelite which has a profit of 7,012,980
 
