@@ -120,11 +120,41 @@ The year with the highest profit is 2017 which had a total of 77,006,640
 
 5.  **Which month in the three years was the least profit generated?**
 
+Again i had to sum up the profits and group them by the months in which they are generated. 
+
 <img width="376" alt="Screenshot 2022-03-31 at 11 41 44" src="https://user-images.githubusercontent.com/62305424/161027031-b4a3cc30-649b-40ad-beac-f6b2f19f26ea.png">
 
 
 <img width="280" alt="Screenshot 2022-03-31 at 11 42 05" src="https://user-images.githubusercontent.com/62305424/161027061-0ee3921c-845b-4999-b207-7a1e43a127b4.png">
 
+The month that generated the least profit is April with the sum of 17,147,660
 
-                
+6. **What was the minimum profit in the month of December 2018?**
+
+This question here centers around the year 2018 and the month december in which the profit was made. I specified with a where function to highlight this condition and i limited the result because of the output of the result.
+
+<img width="431" alt="Screenshot 2022-03-31 at 11 56 29" src="https://user-images.githubusercontent.com/62305424/161029850-d47ce3af-876a-4b68-809d-b4eaf5cb06c8.png">
+
+The least profit generated in the month of december 2018 was 38,150 and 38,200
+
+<img width="285" alt="Screenshot 2022-03-31 at 11 56 54" src="https://user-images.githubusercontent.com/62305424/161030112-68d51b2e-9af6-4e0f-b862-30bde5c7b1d6.png">
+
+7. **Compare the profit in percentage for each of the month in 2019**
+
+This analysis takes into consideration two conditions which are monthly profit and year 2019. With this i created a inner query that focus on the monthly profit and then divided it by the profit for the year.
+
+<img width="492" alt="Screenshot 2022-03-31 at 13 17 10" src="https://user-images.githubusercontent.com/62305424/161043372-0891c13e-6a4e-43e5-8f9a-c7b55568cb56.png">
+ The monthly profit which will be named profit_per_month will be multiplied by 100.00 and divided by the yearly profit. 
+ The script for the yearly profit is as follows:
+ 
+ SELECT SUM(profit)
+FROM international_breweries
+WHERE years = 2019. 
+
+The query written to compare the profit for the months is seen below
+
+<img width="562" alt="Screenshot 2022-03-31 at 13 20 32" src="https://user-images.githubusercontent.com/62305424/161043871-f27c77a5-37f7-41c2-8a31-532590049581.png">
+
+<img width="380" alt="Screenshot 2022-03-31 at 13 24 42" src="https://user-images.githubusercontent.com/62305424/161044574-73631172-2648-4b84-b520-013fa3b0158a.png">
+
 
