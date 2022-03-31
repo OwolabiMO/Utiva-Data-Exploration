@@ -149,7 +149,9 @@ This analysis takes into consideration two conditions which are monthly profit a
  The script for the yearly profit is as follows:
  
  SELECT SUM(profit)
+ 
 FROM international_breweries
+
 WHERE years = 2019. 
 
 The query written to compare the profit for the months is seen below
