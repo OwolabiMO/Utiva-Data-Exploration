@@ -71,7 +71,7 @@ c. Countries Analysis
 
 Profit Analysis
 
-1. Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
+1. **Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?**
 
 <img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013297-42029c9f-6d80-45c6-81b8-519771513542.png">
 
@@ -79,7 +79,7 @@ Profit Analysis
                                  <img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013469-f36c866b-8315-481e-a0cc-0266443a322a.png">
 
 
-2.  Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
+2.  **Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.**
 
 In here i use the case function to seperate the regions into Anglophone and francophone and i also group the profits between the two case statement.
 
@@ -94,7 +94,7 @@ In here i use the case function to seperate the regions into Anglophone and fran
 
 
 
-3.  Country that generated the highest profit in 2019
+3.  **Country that generated the highest profit in 2019**
 
 I calculated the sum of the profit and group them by the countries in which they were generated. 
 
