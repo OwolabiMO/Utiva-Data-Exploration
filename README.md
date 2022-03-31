@@ -184,6 +184,7 @@ As you know the francophone countries here include Senegal, Benin and Togo. the 
 
 
 The output shows that 
+
       Trophy 52,899
       
       Hero   50,846
@@ -200,4 +201,5 @@ The metric i use to measure consumer brand is quantity consumed.
 
 Answer: 
         Eagle lite is the most demanded brand in Ghana which has about 25,829 quantities,
+        
         While Castle Lite sit at the second place with a total of 25,806 beers.
