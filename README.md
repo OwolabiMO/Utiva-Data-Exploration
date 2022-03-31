@@ -103,6 +103,10 @@ I calculated the sum of the profit and group them by the countries in which they
 
 <img width="384" alt="Screenshot 2022-03-31 at 10 58 26" src="https://user-images.githubusercontent.com/62305424/161018239-ba8a291f-9cc6-4381-8bae-435f44b04fa8.png">
 
+
+<img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161019507-c3f5f826-3699-4926-bc76-c2b73fb79760.png">
+
+
                    
-                   <img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161018406-02f195e8-3f2b-437f-b4c7-eafbc66584f7.png">
+                
 
