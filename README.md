@@ -86,14 +86,14 @@ In here i use the case function to seperate the regions into Anglophone and fran
 
 <img width="497" alt="Screenshot 2022-03-31 at 10 48 02" src="https://user-images.githubusercontent.com/62305424/161015991-b0248411-6e14-4435-a2be-3c7ae6ae1ec6.png">
 
- 
-   <img width="261" alt="Screenshot 2022-03-31 at 10 48 45" src="https://user-images.githubusercontent.com/62305424/161016050-29fa5f82-8829-40e3-98fc-0bbaee892eba.png">
+<img width="252" alt="Screenshot 2022-03-31 at 20 12 25" src="https://user-images.githubusercontent.com/62305424/161122500-3f542f9e-248d-4af3-8c66-7615763cc4f4.png">
+
 
     
     
     Answer; 
-            Francophone 126,396,320
-            Angophone   84,742,270
+            Francophone 63,198,160
+            Angophone   42,198,160
 
 
 
