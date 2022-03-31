@@ -102,12 +102,12 @@ In here i use the case function to seperate the regions into Anglophone and fran
 
 I calculated the sum of the profit and group them by the countries in which they were generated. 
 
-<img width="384" alt="Screenshot 2022-03-31 at 10 58 26" src="https://user-images.githubusercontent.com/62305424/161018239-ba8a291f-9cc6-4381-8bae-435f44b04fa8.png">
+<img width="392" alt="Screenshot 2022-03-31 at 20 33 54" src="https://user-images.githubusercontent.com/62305424/161125843-2f3e226e-c83c-470c-85c3-eb19617400ee.png">
 
 
 
 
-   <img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161019507-c3f5f826-3699-4926-bc76-c2b73fb79760.png">
+<img width="230" alt="Screenshot 2022-03-31 at 20 34 18" src="https://user-images.githubusercontent.com/62305424/161125879-0f15c229-b279-4aa8-b3b4-5e49c9462f68.png">
 
 4. **Help him find the year with the highest profit**
 
