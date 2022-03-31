@@ -181,7 +181,7 @@ As you know the francophone countries here include Senegal, Benin and Togo. the 
 
 <img width="285" alt="Screenshot 2022-03-31 at 19 42 53" src="https://user-images.githubusercontent.com/62305424/161117322-4609daae-249c-465e-83d7-96260a879d7c.png">
 
-<img width="425" alt="Screenshot 2022-03-31 at 19 48 05" src="https://user-images.githubusercontent.com/62305424/161118225-e07fb785-afd9-495c-b1ea-73d5691c7e85.png">
+
 
 The output shows that 
       Trophy 52,899
