@@ -74,10 +74,10 @@ Profit Analysis
 
 1. **Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?**
 
-<img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013297-42029c9f-6d80-45c6-81b8-519771513542.png">
+<img width="525" alt="Screenshot 2022-03-31 at 11 17 39" src="https://user-images.githubusercontent.com/62305424/161021830-5019e511-2816-40c9-98f5-e17e08f40abc.png">
 
 
-<img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013469-f36c866b-8315-481e-a0cc-0266443a322a.png">
+<img width="287" alt="Screenshot 2022-03-31 at 11 18 04" src="https://user-images.githubusercontent.com/62305424/161021864-b54a85c5-d797-4c51-b16e-fd0b26b479df.png">
 
 
 2.  **Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.**
@@ -108,7 +108,23 @@ I calculated the sum of the profit and group them by the countries in which they
 
    <img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161019507-c3f5f826-3699-4926-bc76-c2b73fb79760.png">
 
+4. **Help him find the year with the highest profit**
 
-                   
+I did sum up the profits and then group them by years so the output of each year can be total profit generated in the years.
+
+<img width="497" alt="Screenshot 2022-03-31 at 11 28 24" src="https://user-images.githubusercontent.com/62305424/161023955-7030fcdf-c4fe-482c-b5d0-5da662e11ccd.png">
+
+<img width="230" alt="Screenshot 2022-03-31 at 11 28 49" src="https://user-images.githubusercontent.com/62305424/161024739-669f1278-13e2-48cb-991b-6ef2cfae5f7e.png">
+
+The year with the highest profit is 2017 which had a total of 77,006,640
+
+5.  **Which month in the three years was the least profit generated?**
+
+<img width="376" alt="Screenshot 2022-03-31 at 11 41 44" src="https://user-images.githubusercontent.com/62305424/161027031-b4a3cc30-649b-40ad-beac-f6b2f19f26ea.png">
+
+
+<img width="280" alt="Screenshot 2022-03-31 at 11 42 05" src="https://user-images.githubusercontent.com/62305424/161027061-0ee3921c-845b-4999-b207-7a1e43a127b4.png">
+
+
                 
 
