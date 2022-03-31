@@ -115,9 +115,9 @@ I did sum up the profits and then group them by years so the output of each year
 
 <img width="497" alt="Screenshot 2022-03-31 at 11 28 24" src="https://user-images.githubusercontent.com/62305424/161023955-7030fcdf-c4fe-482c-b5d0-5da662e11ccd.png">
 
-<img width="230" alt="Screenshot 2022-03-31 at 11 28 49" src="https://user-images.githubusercontent.com/62305424/161024739-669f1278-13e2-48cb-991b-6ef2cfae5f7e.png">
+<img width="283" alt="Screenshot 2022-03-31 at 20 36 31" src="https://user-images.githubusercontent.com/62305424/161126166-fd8581d1-a5ec-4ead-8b91-3e4cfbfab62a.png">
 
-The year with the highest profit is 2017 which had a total of 77,006,640
+The year with the highest profit is 2017 which had a total of 38,503,320
 
 5.  **Which month in the three years was the least profit generated?**
 
@@ -126,9 +126,9 @@ Again i had to sum up the profits and group them by the months in which they are
 <img width="376" alt="Screenshot 2022-03-31 at 11 41 44" src="https://user-images.githubusercontent.com/62305424/161027031-b4a3cc30-649b-40ad-beac-f6b2f19f26ea.png">
 
 
-<img width="280" alt="Screenshot 2022-03-31 at 11 42 05" src="https://user-images.githubusercontent.com/62305424/161027061-0ee3921c-845b-4999-b207-7a1e43a127b4.png">
+<img width="260" alt="Screenshot 2022-03-31 at 20 40 46" src="https://user-images.githubusercontent.com/62305424/161126849-50670fa9-8927-4d81-ba25-2ae0a3f4eaf7.png">
 
-The month that generated the least profit is April with the sum of 17,147,660
+The month that generated the least profit is April with the sum of 8,573,830
 
 6. **What was the minimum profit in the month of December 2018?**
 
@@ -138,7 +138,7 @@ This question here centers around the year 2018 and the month december in which 
 
 The least profit generated in the month of december 2018 was 38,150 and 38,200
 
-<img width="285" alt="Screenshot 2022-03-31 at 11 56 54" src="https://user-images.githubusercontent.com/62305424/161030112-68d51b2e-9af6-4e0f-b862-30bde5c7b1d6.png">
+<img width="221" alt="Screenshot 2022-03-31 at 20 43 47" src="https://user-images.githubusercontent.com/62305424/161127297-95573ea0-4adf-4a03-9c65-421e68d1dab3.png">
 
 7. **Compare the profit in percentage for each of the month in 2019**
 
