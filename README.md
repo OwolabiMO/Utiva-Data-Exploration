@@ -167,9 +167,9 @@ To get the highest profit, we have to sum the profit and group them by brand as 
 
 <img width="306" alt="Screenshot 2022-03-31 at 17 10 02" src="https://user-images.githubusercontent.com/62305424/161088934-794d7cf6-2499-48e2-b2c4-88664068b6be.png">
 
-<img width="238" alt="Screenshot 2022-03-31 at 17 10 36" src="https://user-images.githubusercontent.com/62305424/161089008-ed75aa50-09be-44db-88d3-053d9f8e6660.png">
+<img width="228" alt="Screenshot 2022-03-31 at 20 47 27" src="https://user-images.githubusercontent.com/62305424/161127828-f9d4aac3-0f3b-484f-8fbe-c907bab20d77.png">
 
-The brand with the highest profit is Castlelite which has a profit of 14,025,960
+The brand with the highest profit is Castlelite which has a profit of 7,012,980
 
 
 ## Brand Analysis
