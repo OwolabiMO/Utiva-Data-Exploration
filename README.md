@@ -197,7 +197,9 @@ The metric i use to measure consumer brand is quantity consumed.
 
 <img width="425" alt="Screenshot 2022-03-31 at 19 48 05" src="https://user-images.githubusercontent.com/62305424/161118686-da35389b-50b2-4adc-b738-2fef5dbb2214.png">
 
-<img width="285" alt="Screenshot 2022-03-31 at 19 42 53" src="https://user-images.githubusercontent.com/62305424/161118780-c169af29-1b98-47af-b2e2-6e5f815a1f15.png">
+<img width="295" alt="Screenshot 2022-03-31 at 19 59 32" src="https://user-images.githubusercontent.com/62305424/161120343-09d6ecb7-0528-46c8-932c-17630dc66556.png">
+
+
 
 Answer: 
        
