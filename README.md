@@ -25,7 +25,7 @@ Before importing the international breweries file (csv) into pgadmin, I created 
    
  sales_rep character varying COLLATE pg_catalog."default",
  
- emails caharacter varying COLLATE pg_catalog."default",
+ emails character varying COLLATE pg_catalog."default",
   
  plant_cost integer,
  
@@ -158,3 +158,36 @@ The query written to compare the profit for the months is seen below
 <img width="380" alt="Screenshot 2022-03-31 at 13 24 42" src="https://user-images.githubusercontent.com/62305424/161044574-73631172-2648-4b84-b520-013fa3b0158a.png">
 
 
+8. **Which particular brand generated the highest profit in Senegal?**
+
+To get the highest profit, we have to sum the profit and group them by brand as written below;
+
+<img width="306" alt="Screenshot 2022-03-31 at 17 10 02" src="https://user-images.githubusercontent.com/62305424/161088934-794d7cf6-2499-48e2-b2c4-88664068b6be.png">
+
+<img width="238" alt="Screenshot 2022-03-31 at 17 10 36" src="https://user-images.githubusercontent.com/62305424/161089008-ed75aa50-09be-44db-88d3-053d9f8e6660.png">
+
+The brand with the highest profit is Castlelite which has a profit of 14,025,960
+
+
+## Brand Analysis
+
+The management want to know which brand is getting more attention from the consumers in terms of demands and profit base and also want to know the brand acceptability in the various regions. The following questions below has been drawn much attention from the management;
+
+1. **Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries**
+
+As you know the francophone countries here include Senegal, Benin and Togo. the image below is the query script wriiten to know the top three brands in these regions.
+
+<img width="419" alt="Screenshot 2022-03-31 at 17 42 44" src="https://user-images.githubusercontent.com/62305424/161095725-8f34d8f2-bb6c-4a35-bea4-19c6fb7205b9.png">
+
+<img width="285" alt="Screenshot 2022-03-31 at 19 42 53" src="https://user-images.githubusercontent.com/62305424/161117322-4609daae-249c-465e-83d7-96260a879d7c.png">
+
+<img width="425" alt="Screenshot 2022-03-31 at 19 48 05" src="https://user-images.githubusercontent.com/62305424/161118225-e07fb785-afd9-495c-b1ea-73d5691c7e85.png">
+
+The output shows that 
+      Trophy 52,899
+      Hero   50,846
+      Eagle Lager 50630
+    
+2. **Find out the top two choice of consumer brands in Ghana**
+
+The metric i use to measure consumer brand is quantity consumed. 
