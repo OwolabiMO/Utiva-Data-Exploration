@@ -87,7 +87,7 @@ In here i use the case function to seperate the regions into Anglophone and fran
 <img width="497" alt="Screenshot 2022-03-31 at 10 48 02" src="https://user-images.githubusercontent.com/62305424/161015991-b0248411-6e14-4435-a2be-3c7ae6ae1ec6.png">
 
  
-                    <img width="261" alt="Screenshot 2022-03-31 at 10 48 45" src="https://user-images.githubusercontent.com/62305424/161016050-29fa5f82-8829-40e3-98fc-0bbaee892eba.png">
+           <img width="261" alt="Screenshot 2022-03-31 at 10 48 45" src="https://user-images.githubusercontent.com/62305424/161016050-29fa5f82-8829-40e3-98fc-0bbaee892eba.png">
 
     Answer; 
             Francophone 126,396,320
@@ -101,5 +101,5 @@ I calculated the sum of the profit and group them by the countries in which they
 
 <img width="384" alt="Screenshot 2022-03-31 at 10 58 26" src="https://user-images.githubusercontent.com/62305424/161018239-ba8a291f-9cc6-4381-8bae-435f44b04fa8.png">
 
-                                       <img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161018406-02f195e8-3f2b-437f-b4c7-eafbc66584f7.png">
+                       <img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161018406-02f195e8-3f2b-437f-b4c7-eafbc66584f7.png">
 
