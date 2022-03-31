@@ -200,6 +200,7 @@ The metric i use to measure consumer brand is quantity consumed.
 <img width="285" alt="Screenshot 2022-03-31 at 19 42 53" src="https://user-images.githubusercontent.com/62305424/161118780-c169af29-1b98-47af-b2e2-6e5f815a1f15.png">
 
 Answer: 
-        Eagle lite is the most demanded brand in Ghana which has about 25,829 quantities,
+       
+       Eagle lite is the most demanded brand in Ghana which has about 25,829 quantities,
         
         While Castle Lite sit at the second place with a total of 25,806 beers.
