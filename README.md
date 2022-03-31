@@ -157,15 +157,17 @@ This analysis takes into consideration two conditions which are monthly profit a
 
 <img width="492" alt="Screenshot 2022-03-31 at 13 17 10" src="https://user-images.githubusercontent.com/62305424/161043372-0891c13e-6a4e-43e5-8f9a-c7b55568cb56.png">
  The monthly profit which will be named profit_per_month will be multiplied by 100.00 and divided by the yearly profit. 
+ 
+ 
  The script for the yearly profit is as follows:
  
 
 
-SELECT SUM(profit)
+ SELECT SUM(profit)
  
-FROM international_breweries
+ FROM international_breweries
 
-WHERE years = 2019. 
+ WHERE years = 2019. 
 
 
 
