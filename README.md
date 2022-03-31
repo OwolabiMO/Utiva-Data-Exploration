@@ -185,9 +185,19 @@ As you know the francophone countries here include Senegal, Benin and Togo. the 
 
 The output shows that 
       Trophy 52,899
+      
       Hero   50,846
+      
       Eagle Lager 50630
     
 2. **Find out the top two choice of consumer brands in Ghana**
 
 The metric i use to measure consumer brand is quantity consumed. 
+
+<img width="425" alt="Screenshot 2022-03-31 at 19 48 05" src="https://user-images.githubusercontent.com/62305424/161118686-da35389b-50b2-4adc-b738-2fef5dbb2214.png">
+
+<img width="285" alt="Screenshot 2022-03-31 at 19 42 53" src="https://user-images.githubusercontent.com/62305424/161118780-c169af29-1b98-47af-b2e2-6e5f815a1f15.png">
+
+Answer: 
+        Eagle lite is the most demanded brand in Ghana which has about 25,829 quantities,
+        While Castle Lite sit at the second place with a total of 25,806 beers.
