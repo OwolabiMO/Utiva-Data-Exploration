@@ -77,7 +77,7 @@ Profit Analysis
 <img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013297-42029c9f-6d80-45c6-81b8-519771513542.png">
 
 
-                                 <img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013469-f36c866b-8315-481e-a0cc-0266443a322a.png">
+<img width="328" alt="Screenshot 2022-03-31 at 10 33 22" src="https://user-images.githubusercontent.com/62305424/161013469-f36c866b-8315-481e-a0cc-0266443a322a.png">
 
 
 2.  **Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.**
@@ -87,7 +87,7 @@ In here i use the case function to seperate the regions into Anglophone and fran
 <img width="497" alt="Screenshot 2022-03-31 at 10 48 02" src="https://user-images.githubusercontent.com/62305424/161015991-b0248411-6e14-4435-a2be-3c7ae6ae1ec6.png">
 
  
-           <img width="261" alt="Screenshot 2022-03-31 at 10 48 45" src="https://user-images.githubusercontent.com/62305424/161016050-29fa5f82-8829-40e3-98fc-0bbaee892eba.png">
+   <img width="261" alt="Screenshot 2022-03-31 at 10 48 45" src="https://user-images.githubusercontent.com/62305424/161016050-29fa5f82-8829-40e3-98fc-0bbaee892eba.png">
 
     
     
@@ -102,6 +102,8 @@ In here i use the case function to seperate the regions into Anglophone and fran
 I calculated the sum of the profit and group them by the countries in which they were generated. 
 
 <img width="384" alt="Screenshot 2022-03-31 at 10 58 26" src="https://user-images.githubusercontent.com/62305424/161018239-ba8a291f-9cc6-4381-8bae-435f44b04fa8.png">
+
+
 
 
    <img width="289" alt="Screenshot 2022-03-31 at 11 00 33" src="https://user-images.githubusercontent.com/62305424/161019507-c3f5f826-3699-4926-bc76-c2b73fb79760.png">
