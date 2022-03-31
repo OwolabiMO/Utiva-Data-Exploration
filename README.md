@@ -77,7 +77,8 @@ Profit Analysis
 <img width="525" alt="Screenshot 2022-03-31 at 11 17 39" src="https://user-images.githubusercontent.com/62305424/161021830-5019e511-2816-40c9-98f5-e17e08f40abc.png">
 
 
-<img width="287" alt="Screenshot 2022-03-31 at 11 18 04" src="https://user-images.githubusercontent.com/62305424/161021864-b54a85c5-d797-4c51-b16e-fd0b26b479df.png">
+<img width="299" alt="Screenshot 2022-03-31 at 20 30 41" src="https://user-images.githubusercontent.com/62305424/161125343-c542ebd9-9f1b-412f-90a7-164137e8e522.png">
+
 
 
 2.  **Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.**
