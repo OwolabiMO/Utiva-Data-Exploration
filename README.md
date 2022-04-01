@@ -83,8 +83,7 @@ ORDER BY 1;
    Three consideration were taken into place which were;
    
    1. percentage for the months(which was diveided by the total sum of the year
-   2. 
-   3. Grouped by the 12 months in the year 2019
+   2.  Grouped by the 12 months in the year 2019
    
      ```SQL
      SELECT months, 
@@ -103,7 +102,6 @@ ORDER BY 1;
      
      -- Which particular brand generated the highest profit in Senegal?
      
-     
      ```SQL 
      SELECT brands,
 		SUM(profit) as Revenue
@@ -111,5 +109,5 @@ ORDER BY 1;
      WHERE countries = 'Senegal'
      GROUP BY 1
      ORDER BY 2 DESC;
-	```
+     ```
 
