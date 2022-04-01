@@ -52,3 +52,14 @@ Lastly in this section, I import the csv file into already created database (int
 
 
 For further view into data into Data Manipulation and recommendation **click here
+
+
+-- Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
+    
+ ```ruby
+ SELECT  countries,
+ SUM(profit) AS profit
+ FROM international_breweries
+ GROUP BY 1
+ ORDER BY 2 DESC; 
+ 
