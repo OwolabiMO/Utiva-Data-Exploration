@@ -86,7 +86,7 @@ ORDER BY 1;
    2. 
    3. Grouped by the 12 months in the year 2019
    
-     ```sQL
+     ```SQL
      SELECT months, 
             ((profit_per_month * 100.00)/(SELECT SUM(profit)
      FROM international_breweries
@@ -108,5 +108,5 @@ ORDER BY 1;
      WHERE countries = 'Senegal'
      GROUP BY 1
      ORDER BY 2 DESC;
-```
+	```
 
