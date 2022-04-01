@@ -81,8 +81,11 @@ ORDER BY 1;
 
      --  Compare the profit in percentage for each of the month in 2019
    Three consideration were taken into place which were;
+   
    1. percentage for the months(which was diveided by the total sum of the year
-   2. Grouped by the 12 months in the year 2019
+   2. 
+   3. Grouped by the 12 months in the year 2019
+   
      ```sQL
      SELECT months, 
             ((profit_per_month * 100.00)/(SELECT SUM(profit)
@@ -97,6 +100,7 @@ ORDER BY 1;
      ```
      
      -- Which particular brand generated the highest profit in Senegal?
+     
      ```SQL 
      SELECT brands,
 		SUM(profit) as Revenue
