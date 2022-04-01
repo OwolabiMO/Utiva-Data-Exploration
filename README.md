@@ -174,4 +174,4 @@ The brand analysis entails the brand usage by customers in all the regions.The q
 		AND years BETWEEN 2018 AND 2019
     GROUP BY 1,2,3
     ORDER BY 4 DESC;
-  ```SQL
+ ```SQL
