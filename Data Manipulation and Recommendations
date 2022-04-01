@@ -12,7 +12,7 @@ c. Countries Analysis
 Firstly, In generating insights on Profit analysis, profit, countries, years and months were taking into consideration as they help get understand of the location and period. 
 There are several questions that need answers in this analysis which are below:
 
--- Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
+ -- Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
     
  ```ruby
  SELECT  countries,
