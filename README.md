@@ -116,6 +116,7 @@ ORDER BY 1;
      
 The brand analysis entails the brand usage by customers in all the regions.The questions here focus more on brands, customer and quantity. 
 
+
     -- Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
     
     ```SQL 
@@ -128,3 +129,14 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     ORDER BY 2 DESC
     LIMIT 3;
     ```
+    
+   -- Find out the top two choice of consumer brands in Ghana
+   ```SQL
+   SELECT brands,
+	  SUM(quantity) AS consumer_choice
+   FROM international_breweries
+   WHERE countries = 'Ghana'
+   GROUP BY brands
+   ORDER BY 2 DESC 
+   LIMIT 2;
+   ```
