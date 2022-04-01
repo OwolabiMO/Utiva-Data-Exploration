@@ -54,10 +54,3 @@ Lastly in this section, I import the csv file into already created database (int
 For further view into data into Data Manipulation and recommendation **click here
 
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
