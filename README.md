@@ -147,7 +147,7 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     --  Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
     
     
-    ```SQL
+ ```SQL
     SELECT brands,
 	   region,
 	   SUM(quantity) AS quantities
