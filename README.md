@@ -163,7 +163,7 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     
     -- Favorites malt brand in Anglophone region between 2018 and 2019
     
-     ```SQL
+ ```SQL
     SELECT countries,
 		region,
 		brands,
@@ -175,4 +175,4 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     GROUP BY 1,2,3
     ORDER BY 4 DESC;
 	
-     ```SQL
+ ```SQL
