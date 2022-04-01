@@ -55,7 +55,6 @@ Lastly in this section, I import the csv file into already created database (int
 - Delimiter field: Determine the delimiter as it is in a csv format
 - Header: Select header which turns green (Yes) because the csv file has header.
 
-<img width="705" alt="Screenshot 2022-03-20 at 21 13 52" src="https://user-images.githubusercontent.com/62305424/159184323-2f07310a-2617-4ceb-83b0-69732ce88759.png">
 
    
    ### Casestudy Solutions
