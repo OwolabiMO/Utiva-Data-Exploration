@@ -101,4 +101,13 @@ ORDER BY 1;
      ```
      
      
-
+    -- Which particular brand generated the highest profit in Senegal?
+     
+     ```SQL 
+     SELECT brands,
+		SUM(profit) as Revenue
+     FROM international_breweries
+     WHERE countries = 'Senegal'
+     GROUP BY 1
+     ORDER BY 2 DESC;
+     ```
