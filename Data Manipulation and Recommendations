@@ -20,3 +20,4 @@ There are several questions that need answers in this analysis which are below:
  FROM international_breweries
  GROUP BY 1
  ORDER BY 2 DESC; 
+ 
