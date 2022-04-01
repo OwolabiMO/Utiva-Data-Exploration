@@ -1,5 +1,13 @@
 # Utiva-Data-Exploration
 
+This project analyses data from the International breweries record in western Africa between 2017 and 2019. The purpose of this analysis is to get insights from the beer consumption in the regions, number of brands that are in high demand and countries analysis. 
+
+This dataset was source from Utiva as a capstone project after learning SQL. This dataset contain various information from Janauary 2017 to December 2019.
+
+[^1]: Tools used for this analysis includes microsoft excel which was in a csv format and use when importing file into the database.Postgres Admin was used for data exploration using SQL queries .
+
+
+
 During the bootcamp at Utiva, we were asked to explore the data from Nigerian breweries that contains different data from other african countries. According to the mail which we received from the team lead, we are required to analytical reports so as to present to the shareholders in the annual meeting and make business decision for business development. Here is the link to the casestudy 
 
 https://import.cdn.thinkific.com/507876/courses/1431816/DSF_InternationalBreweriesSQLCapstoneProject-210714-091303.pdf
