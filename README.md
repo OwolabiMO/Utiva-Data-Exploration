@@ -14,10 +14,10 @@ There are several questions that need answers in this analysis which are below:
 
  -- Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
     
-      ```ruby
+ `code`
  SELECT  countries,
  SUM(profit) AS profit
  FROM international_breweries
  GROUP BY 1
  ORDER BY 2 DESC; 
-      ```
+      
