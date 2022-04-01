@@ -67,7 +67,7 @@ ORDER BY 1;
     FROM international_breweries
     GROUP BY 1
     ORDER BY 2 ASC;
-```
+   ```
 
     -- What was the minimum profit in the month of December 2018?
   ```SQL
@@ -77,15 +77,15 @@ ORDER BY 1;
     WHERE months = 'December' AND years = 2018
     ORDER BY 2 
     LIMIT 3;
-```  
+   ```  
      
      
      --  Compare the profit in percentage for each of the month in 2019
      
-   Three consideration were taken into place which were;
+     Three consideration were taken into place which were;
    
-   1. percentage for the months(which was diveided by the total sum of the year
-   2.  Grouped by the 12 months in the year 2019
+     1. percentage for the months(which was diveided by the total sum of the year
+     2.  Grouped by the 12 months in the year 2019
    
      ```SQL
      SELECT months, 
@@ -117,6 +117,7 @@ ORDER BY 1;
 The brand analysis entails the brand usage by customers in all the regions.The questions here focus more on brands, customer and quantity. 
 
     -- Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
+    
     ```SQL 
     SELECT brands,
 		SUM(quantity) AS consumption
