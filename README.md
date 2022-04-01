@@ -115,3 +115,15 @@ ORDER BY 1;
  ## Brand Analysis
      
 The brand analysis entails the brand usage by customers in all the regions.The questions here focus more on brands, customer and quantity. 
+
+    -- Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
+    ```SQL 
+    SELECT brands,
+		SUM(quantity) AS consumption
+    FROM international_breweries
+    WHERE countries in ('Senegal','Togo','Benin')
+	AND years in (2018,2019)
+    GROUP BY 1
+    ORDER BY 2 DESC
+    LIMIT 3;
+    ```
