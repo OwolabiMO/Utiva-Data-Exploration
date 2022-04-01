@@ -1,4 +1,4 @@
-# Utiva-Data-Exploration
+# UTIVA DATA EXPLORATION
 
 This project analyses data from the International breweries record in western Africa between 2017 and 2019. The purpose of this analysis is to get insights from the beer consumption in the regions, number of brands that are in high demand and countries analysis. 
 
@@ -6,52 +6,42 @@ This dataset was source from Utiva as a capstone project after learning SQL. Thi
 
 > Tools used for this analysis includes microsoft excel which was in a csv format and use when importing file into the database.Postgres Admin was used for data exploration using SQL queries .
 
+## STATEMENT OF BUSINESS TASK
 
+This data provides an analysis on the profits made during the year and the beer consumption between the regions in Africa. An it also proffer recommendations on how these regions can increase profits between brand . 
 
-During the bootcamp at Utiva, we were asked to explore the data from Nigerian breweries that contains different data from other african countries. According to the mail which we received from the team lead, we are required to analytical reports so as to present to the shareholders in the annual meeting and make business decision for business development. Here is the link to the casestudy 
+## DESCRIPTION OF THE DATA SOURCE USED
 
-https://import.cdn.thinkific.com/507876/courses/1431816/DSF_InternationalBreweriesSQLCapstoneProject-210714-091303.pdf
+The dataset was taken from [here](https://import.cdn.thinkific.com/507876/courses/1431816/DSF_InternationalBreweriesSQLCapstoneProject-210714-091303.pdf)
+The data was reported by each country in the record and the information is only accurate as provided by each country. The dataset was downloaded in a csv format and were loaded into pg-admin.
 
-### Problem Statement
+Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries and run the query below to create the columns. 
 
-International Breweries want us to use the data to answer a few simple questions about the customers and regions  especially about their
-
-A) Sales pattern
-
-B) Profits from regions
-
-C) Which brand is the most favourite.
-
-In addition the management of International Breweries plans to use the analysis of this maximise profit and reduce loss within it regions.
-
-### Creating Database on Pgadmin
-Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries then i right click and navigated to query tool. I entered the following query script which was generated from the properties of each table colon in the file. Below is the query script written:
-
--- CREATE TABLE public. International_breweries(
+  -- CREATE TABLE public. International_breweries(
  
- sales_id integer,
+     sales_id integer,
    
- sales_rep character varying COLLATE pg_catalog."default",
+     sales_rep character varying COLLATE pg_catalog."default",
  
- emails character varying COLLATE pg_catalog."default",
+     emails character varying COLLATE pg_catalog."default",
   
- plant_cost integer,
+     plant_cost integer,
  
- unit_price integer,
+     unit_price integer,
  
- quantity integer,
+     quantity integer,
  
- cost integer,
+      cost integer,
  
- profit integer,
+      profit integer,
  
- countries character varying COLLATE pg_catalog."default",
+      countries character varying COLLATE pg_catalog."default",
  
- region character varying COLLATE pg_catalog."default",
+     region character varying COLLATE pg_catalog."default",
 
-years integer
+     years integer
 
-)
+     )
    
    After running the query code, i navigated to left side of pgadmin to see if the tables exist in the database(international_breweries).
     
