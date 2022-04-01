@@ -159,9 +159,7 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     ORDER BY 3 DESC
     ```
     
-    
-    
-    -- Favorites malt brand in Anglophone region between 2018 and 2019
+    Favorites malt brand in Anglophone region between 2018 and 2019
    
    
  ```SQL
