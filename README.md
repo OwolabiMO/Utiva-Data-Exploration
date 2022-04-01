@@ -131,7 +131,9 @@ The brand analysis entails the brand usage by customers in all the regions.The q
   ```
     
     
-   -- Find out the top two choice of consumer brands in Ghana
+    -- Find out the top two choice of consumer brands in Ghana
+   
+   
    ```SQL
    SELECT brands,
 	  SUM(quantity) AS consumer_choice
@@ -142,7 +144,8 @@ The brand analysis entails the brand usage by customers in all the regions.The q
    LIMIT 2;
    ```
 
-   --  Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
+    --  Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
+    
     
     ```SQL
     SELECT brands,
@@ -157,4 +160,5 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     ```
     
     
-   -- Favorites malt brand in Anglophone region between 2018 and 2019
+    
+    -- Favorites malt brand in Anglophone region between 2018 and 2019
