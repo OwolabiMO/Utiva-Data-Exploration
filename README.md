@@ -142,7 +142,8 @@ The brand analysis entails the brand usage by customers in all the regions.The q
    LIMIT 2;
    ```
 
-    --  Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
+   --  Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
+    
     ```SQL
     SELECT brands,
 	   region,
@@ -155,4 +156,5 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     ORDER BY 3 DESC
     ```
     
-    -- Favorites malt brand in Anglophone region between 2018 and 2019
+    
+   -- Favorites malt brand in Anglophone region between 2018 and 2019
