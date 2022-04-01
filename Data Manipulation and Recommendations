@@ -21,3 +21,12 @@ There are several questions that need answers in this analysis which are below:
  GROUP BY 1
  ORDER BY 2 DESC; 
  
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
