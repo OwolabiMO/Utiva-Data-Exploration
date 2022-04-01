@@ -4,7 +4,7 @@ This project analyses data from the International breweries record in western Af
 
 This dataset was source from Utiva as a capstone project after learning SQL. This dataset contain various information from Janauary 2017 to December 2019.
 
-[^1]: Tools used for this analysis includes microsoft excel which was in a csv format and use when importing file into the database.Postgres Admin was used for data exploration using SQL queries .
+> Tools used for this analysis includes microsoft excel which was in a csv format and use when importing file into the database.Postgres Admin was used for data exploration using SQL queries .
 
 
 
