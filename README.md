@@ -162,3 +162,17 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     
     
     -- Favorites malt brand in Anglophone region between 2018 and 2019
+    
+    ```SQL
+    SELECT countries,
+		region,
+		brands,
+		SUM(quantity) as most_consumed
+    FROM international_breweries
+    WHERE countries in ('Nigeria','Ghana')
+		AND brands LIKE '%malt%'
+		AND years BETWEEN 2018 AND 2019
+    GROUP BY 1,2,3
+    ORDER BY 4 DESC;
+	
+    ```SQL
