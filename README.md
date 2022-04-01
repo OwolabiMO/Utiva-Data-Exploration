@@ -17,7 +17,7 @@ The data was reported by each country in the record and the information is only 
 
 Before importing the international breweries file (csv) into pgadmin, I created a database and named it international_breweries and run the query below to create the columns. 
 
-  -- CREATE TABLE public. International_breweries(
+     -- CREATE TABLE public. International_breweries(
  
      sales_id integer,
    
@@ -31,11 +31,11 @@ Before importing the international breweries file (csv) into pgadmin, I created 
  
      quantity integer,
  
-      cost integer,
+     cost integer,
  
-      profit integer,
+     profit integer,
  
-      countries character varying COLLATE pg_catalog."default",
+     countries character varying COLLATE pg_catalog."default",
  
      region character varying COLLATE pg_catalog."default",
 
