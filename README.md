@@ -159,7 +159,9 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     ORDER BY 3 DESC
     ```
     
-    Favorites malt brand in Anglophone region between 2018 and 2019
+    
+    
+-- Favorites malt brand in Anglophone region between 2018 and 2019
    
    
  ```SQL
@@ -174,3 +176,17 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     GROUP BY 1,2,3
     ORDER BY 4 DESC;
    ```
+
+
+Which brands sold the highest in 2019 in Nigeria?
+
+```SQL
+   SELECT brands,
+		SUM(profit) as profit
+   FROM international_breweries
+   WHERE countries = 'Nigeria'
+	AND years = 2019
+   GROUP BY 1
+   ORDER BY 2 DESC
+   LIMIT 3;
+```
