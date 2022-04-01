@@ -15,17 +15,11 @@ There are several questions that need answers in this analysis which are below:
     -- Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
  
  ```SQL
- 
  SELECT  countries,
- 
  SUM(profit) AS profit
- 
  FROM international_breweries
- 
  GROUP BY 1
- 
  ORDER BY 2 DESC;      
-
  ```
 
     --  Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
