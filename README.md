@@ -50,3 +50,31 @@ ORDER BY 1;
  
  ```
  
+    -- Help him find the year with the highest profit.
+    ```SQL
+  SELECT years,SUM(profit) AS revenue
+ FROM international_breweries
+ GROUP BY 1
+ ORDER BY 2 DESC;
+ ```
+ 
+    -- Which month in the three years was the least profit generated?
+    ```SQL
+    SELECT months,
+ 		SUM(profit) AS revenue
+FROM international_breweries
+GROUP BY 1
+ORDER BY 2 ASC;
+```
+
+    -- What was the minimum profit in the month of December 2018?
+    ```SQL
+    SELECT 	months,
+		profit
+FROM international_breweries
+WHERE months = 'December' AND years = 2018
+ORDER BY 2 
+LIMIT 3;
+```
+
+ 
