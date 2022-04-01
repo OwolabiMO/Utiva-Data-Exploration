@@ -111,3 +111,7 @@ ORDER BY 1;
      GROUP BY 1
      ORDER BY 2 DESC;
      ```
+     
+ ## Brand Analysis
+     
+The brand analysis entails the brand usage by customers in all the regions.The questions here focus more on brands, customer and quantity. 
