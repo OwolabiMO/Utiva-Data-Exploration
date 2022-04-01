@@ -71,8 +71,8 @@ ORDER BY 1;
 
     -- What was the minimum profit in the month of December 2018?
   ```SQL
-    SELECT   months,
-	     profit
+    SELECT  months,
+	    profit
     FROM international_breweries
     WHERE months = 'December' AND years = 2018
     ORDER BY 2 
@@ -80,14 +80,24 @@ ORDER BY 1;
 ```  
      
      
-     -- Which particular brand generated the highest profit in Senegal?
+     --  Compare the profit in percentage for each of the month in 2019
      
-     ```SQL 
-     SELECT brands,
-		SUM(profit) as Revenue
+   Three consideration were taken into place which were;
+   
+   1. percentage for the months(which was diveided by the total sum of the year
+   2.  Grouped by the 12 months in the year 2019
+   
+     ```SQL
+     SELECT months, 
+            ((profit_per_month * 100.00)/(SELECT SUM(profit)
      FROM international_breweries
-     WHERE countries = 'Senegal'
-     GROUP BY 1
-     ORDER BY 2 DESC;
-     ```
+     WHERE years = 2019)) AS percent_profit			
+     FROM(
+     SELECT months,
+		SUM(profit) as profit_per_month
+     FROM international_breweries
+     WHERE years = 2019
+     GROUP BY 1)AS sub1;
+     
+     
 
