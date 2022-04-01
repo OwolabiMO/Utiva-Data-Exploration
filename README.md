@@ -117,7 +117,7 @@ ORDER BY 1;
 The brand analysis entails the brand usage by customers in all the regions.The questions here focus more on brands, customer and quantity. 
 
 
-   -- Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
+    -- Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
     
   ```SQL 
     SELECT brands,
