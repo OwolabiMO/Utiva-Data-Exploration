@@ -215,3 +215,25 @@ Bear consumption in Nigeria
    GROUP BY 1
    ORDER BY 2 DESC
    ```
+
+Level of consumption of Budweiser in the regions in Nigeria
+
+```SQL
+SELECT Region,
+		SUM(quantity) AS consup_quantities
+FROM International_breweries
+WHERE brands = 'budweiser' AND countries = 'Nigeria'
+GROUP  BY 1
+ORDER BY 2 DESC;
+```
+
+Level of consumption of Budweiser in the regions in Nigeria in 2019 (Decision on Promo)
+
+```SQL
+SELECT Region,
+		SUM(quantity) AS consup_quantities
+FROM International_breweries
+WHERE brands = 'budweiser' AND countries = 'Nigeria'
+		AND years =2019
+GROUP  BY 1
+ORDER BY 2 DESC;
