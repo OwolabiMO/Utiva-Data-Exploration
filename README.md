@@ -141,3 +141,18 @@ The brand analysis entails the brand usage by customers in all the regions.The q
    ORDER BY 2 DESC 
    LIMIT 2;
    ```
+
+    --  Find out the details of beers consumed in the past three years in the most oil reached country in West Africa.
+    ```SQL
+    SELECT brands,
+	   region,
+	   SUM(quantity) AS quantities
+    FROM international_breweries
+    WHERE countries = 'Nigeria'
+	AND years between 2017 AND 2019
+	AND brands NOT LIKE '%Malt%'
+    GROUP BY 1,2
+    ORDER BY 3 DESC
+    ```
+    
+    -- Favorites malt brand in Anglophone region between 2018 and 2019
