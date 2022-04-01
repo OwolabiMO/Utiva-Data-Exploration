@@ -99,7 +99,10 @@ ORDER BY 1;
      GROUP BY 1)AS sub1;
      ```
      
+     
+     
      -- Which particular brand generated the highest profit in Senegal?
+     
      
      ```SQL 
      SELECT brands,
