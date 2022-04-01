@@ -87,7 +87,7 @@ Help him find the year with the highest profit.
      1. percentage for the months(which was diveided by the total sum of the year
      2.  Grouped by the 12 months in the year 2019
    
-     ```SQL
+ ```SQL
      SELECT months, 
             ((profit_per_month * 100.00)/(SELECT SUM(profit)
      FROM international_breweries
@@ -98,7 +98,7 @@ Help him find the year with the highest profit.
      FROM international_breweries
      WHERE years = 2019
      GROUP BY 1)AS sub1;
-     ```
+  ```
      
      
   Which particular brand generated the highest profit in Senegal?
