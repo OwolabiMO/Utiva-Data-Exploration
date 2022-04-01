@@ -14,6 +14,7 @@ There are several questions that need answers in this analysis which are below:
 
 -- Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
     
+`code`
 SELECT  countries,
 SUM(profit) AS profit
 FROM international_breweries
