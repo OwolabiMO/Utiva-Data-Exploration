@@ -175,4 +175,4 @@ The brand analysis entails the brand usage by customers in all the regions.The q
     GROUP BY 1,2,3
     ORDER BY 4 DESC;
 	
- ```SQL
+  ```SQL
