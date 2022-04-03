@@ -8,6 +8,7 @@ b. Brand Analysis
 
 c. Countries Analysis
 
+##Profit Analysis
 
 Firstly, In generating insights on Profit analysis, profit, countries, years and months were taking into consideration as they help get understand of the location and period. 
 There are several questions that need answers in this analysis which are below:
